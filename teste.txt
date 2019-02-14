@@ -2,4 +2,4 @@ Hello world!!!!!!!!!
 
 teste
 
-teste: ignorando arquivo
+Simulando aplicação
