@@ -1,3 +1,5 @@
 Hello world!!!!!!!!!
 
 teste
+
+teste: ignorando arquivo
